@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    color:#3D56B2;
+    background-color: #14279B;
+  }
+  .container {
+    margin: 150px auto;
+    background-color: #E6E6E6	;
+    border-radius: 20px;
+    padding: 25px 50px;
+    width: 80vw;
+  }
+  .opciones {
+    width: 100%;
+    max-width: 120px;
+  }
+  
+  /* Estilo de los titulos */
+  .ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  
+  .ml4 {
+    position: relative;
+    font-weight: 900;
+    font-size: 4.5em;
+  }
+  .ml4 .letters {
+    position: absolute;
+    margin: 50px auto;
+    padding: 100;
+    left: 0;
+    top: 0.3em;
+    right: 0;
+    opacity: 0;
+    color: #E6E6E6;
+  }
