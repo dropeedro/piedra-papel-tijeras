@@ -1,2 +1,2 @@
-# piedra-papel-tijeras
-Juego piedra, papel o tijeras 
+# Juego Piedra, Papel o Tijeras (Cachipún)
+Desarrollado como práctica en Javascript y CSS
